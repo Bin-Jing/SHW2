@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "38FF34F8D4E1172B4FA48209354838926D8FBAE3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "38FF34F8D4E1172B4FA48209354838926D8FBAE3" : 9223372036854775807,
+    "9AEF46A894389B71AE26477422633DC27D8A214B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ACF96477-1EB4-419E-A4FA-10B37A82C637",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "38FF34F8D4E1172B4FA48209354838926D8FBAE3" : "calculator\/",
+    "9AEF46A894389B71AE26477422633DC27D8A214B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Calculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Calculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bin-Jing\/SHW2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38FF34F8D4E1172B4FA48209354838926D8FBAE3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bin-Jing\/SHW2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AEF46A894389B71AE26477422633DC27D8A214B"
+    }
+  ]
+}
