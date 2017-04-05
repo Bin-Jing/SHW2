@@ -160,7 +160,7 @@ class ViewController: UIViewController {
         self.displayLabel.text = "2.71828182845"
     }
     @IBAction func piBtn(_ sender: UIButton) {
-        self.displayLabel.text = "3.14159265359"
+        self.displayLabel.text = String(Double.pi)
     }
     @IBAction func percentBtn(_ sender: UIButton) {
         let currentNumber = Double(self.displayLabel.text ?? "0")!
