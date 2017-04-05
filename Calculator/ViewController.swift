@@ -179,5 +179,14 @@ class ViewController: UIViewController {
         }
     }
 
+    @IBAction func reverseSign(_ sender: UIButton) {
+        let currentNumber = Double(self.displayLabel.text ?? "0")!
+        if(currentNumber == 0){
+            self.displayLabel.text = "0"
+        }else{
+            self.displayLabel.text = String((-1*currentNumber).displayString)
+        }
+        
+    }
 
 }
